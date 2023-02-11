@@ -16,16 +16,16 @@
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-react": "^7.28.0",
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "grunt": "^1.5.3",
     "lodash": "^4.17.21",
-    "sails": "^1.5.2",
+    "sails": "^1.5.3",
     "sails-hook-apianalytics": "^2.0.5",
     "sails-hook-grunt": "^5.0.0",
     "sails-hook-organics": "^2.2.0",
     "sails-hook-orm": "^4.0.1",
     "sails-hook-sockets": "^2.0.3",
-    "strapi": "^3.6.10",
+    "strapi": "^3.6.11",
     "strapi-hook-mongoose": "^3.0.0-next.31"
   }
 }
